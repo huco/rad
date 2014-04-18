@@ -1,0 +1,4 @@
+rad
+===
+
+glupanov kod
